@@ -1,11 +1,11 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
+site_name: 'Town for Agoutis'
 site_description: 'Central resource for ESIIL postdoctoral researchers'
 site_author: Ty Tuff
 site_url: https://cu-esiil.github.io/Postdoc_OASIS
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: agouti_townz
+repo_url: https://github.com/CU-ESIIL/agouti_town
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
